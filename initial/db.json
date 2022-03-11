@@ -1,0 +1,365 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "State Of Grace",
+      "time": "4:55"
+    },
+    { "id": 2, "title": "Red", "time": "3:40" },
+    {
+      "id": 3,
+      "title": "Treacherous",
+      "time": "4:00"
+    },
+    {
+      "id": 4,
+      "title": "I Knew You Were Trouble",
+      "time": "3:39"
+    },
+    {
+      "id": 5,
+      "title": "All Too Well",
+      "time": "5:29"
+    },
+    { "id": 6, "title": "22", "time": "3:52" },
+    {
+      "id": 7,
+      "title": "I Almost Do",
+      "time": "4:04"
+    },
+    {
+      "id": 8,
+      "title": "We Are Never Ever Getting Back Together",
+      "time": "3:13"
+    },
+    {
+      "id": 9,
+      "title": "Stay Stay Stay",
+      "time": "3:25"
+    },
+    {
+      "id": 10,
+      "title": "The Las, Time",
+      "time": "4:59"
+    },
+    {
+      "id": 11,
+      "title": "Holy Ground",
+      "time": "3:22"
+    },
+    {
+      "id": 12,
+      "title": "Sad Beautiful Tragic",
+      "time": "4:44"
+    },
+    {
+      "id": 13,
+      "title": "The Lucky One",
+      "time": "4:00"
+    },
+    {
+      "id": 14,
+      "title": "Everything Has Changed",
+      "time": "4:05"
+    },
+    {
+      "id": 15,
+      "title": "Starlight",
+      "time": "3:40"
+    },
+    {
+      "id": 16,
+      "title": "Begin Again",
+      "time": "3:57"
+    },
+    {
+      "id": 17,
+      "title": "Welcome to New York",
+      "time": "3:32"
+    },
+    {
+      "id": 18,
+      "title": "Blank Space",
+      "time": "3:51"
+    },
+    { "id": 19, "title": "Style", "time": "3:51" },
+    {
+      "id": 20,
+      "title": "Out of the Woods",
+      "time": "3:55"
+    },
+    {
+      "id": 21,
+      "title": "All You Had to Do Was Stay",
+      "time": "3:13"
+    },
+    {
+      "id": 22,
+      "title": "Shake It Off",
+      "time": "3:39"
+    },
+    {
+      "id": 23,
+      "title": "I Wish You Would",
+      "time": "3:27"
+    },
+    {
+      "id": 24,
+      "title": "Bad Blood",
+      "time": "3:31"
+    },
+    {
+      "id": 25,
+      "title": "Wildest Dreams",
+      "time": "3:40"
+    },
+    {
+      "id": 26,
+      "title": "How You Get the Girl",
+      "time": "4:07"
+    },
+    {
+      "id": 27,
+      "title": "This Love",
+      "time": "4:10"
+    },
+    {
+      "id": 28,
+      "title": "I Know Places",
+      "time": "3:15"
+    },
+    { "id": 29, "title": "Clean", "time": "4:30" },
+
+    {
+      "id": 30,
+      "title": "Pray You Catch Me",
+      "time": "3:16"
+    },
+    {
+      "id": 31,
+      "title": "Hold Up",
+      "time": "3:41"
+    },
+    {
+      "id": 32,
+      "title": "Don't Hurt Yourself (featuring Jack White)",
+      "time": "3:53"
+    },
+    { "id": 33, "title": "Sorry", "time": "3:52" },
+    {
+      "id": 34,
+      "title": "6 Inch (featuring the Weeknd)",
+      "time": "4:20"
+    },
+    {
+      "id": 35,
+      "title": "Daddy Lessons",
+      "time": "4:48"
+    },
+    {
+      "id": 36,
+      "title": "Love Drought",
+      "time": "3:57"
+    },
+    {
+      "id": 37,
+      "title": "Sandcastles",
+      "time": "3:02"
+    },
+    {
+      "id": 38,
+      "title": "Forward (featuring James Blake)",
+      "time": "1:19"
+    },
+    {
+      "id": 39,
+      "title": "Freedom (featuring Kendrick Lamar)",
+      "time": "4:49"
+    },
+    {
+      "id": 40,
+      "title": "All Night",
+      "time": "5:22"
+    },
+    {
+      "id": 41,
+      "title": "Formation",
+      "time": "3:26"
+    },
+    {
+      "id": 42,
+      "title": "Procession",
+      "time": "1:12"
+    },
+    {
+      "id": 43,
+      "title": "Father to Son",
+      "time": "6:14"
+    },
+    {
+      "id": 44,
+      "title": "White Queen (As It Began)",
+      "time": "4:34"
+    },
+    {
+      "id": 45,
+      "title": "Some Day One Day",
+      "time": "4:23"
+    },
+    {
+      "id": 46,
+      "title": "The Loser in the End",
+      "time": "4:02"
+    },
+    {
+      "id": 47,
+      "title": "Ogre Battle",
+      "time": "4:10"
+    },
+    {
+      "id": 48,
+      "title": "The Fairy Feller's Master-Stroke",
+      "time": "2:40"
+    },
+    {
+      "id": 49,
+      "title": "Nevermore",
+      "time": "1:17"
+    },
+    {
+      "id": 50,
+      "title": "The March of the Black Queen",
+      "time": "6:33"
+    },
+    {
+      "id": 51,
+      "title": "Funny How Love Is",
+      "time": "2:50"
+    },
+    {
+      "id": 52,
+      "title": "Seven Seas of Rhye",
+      "time": "2:50"
+    },
+    { "id": 53, "title": "The 1", "time": "3:30" },
+    {
+      "id": 54,
+      "title": "Cardigan",
+      "time": "3:59"
+    },
+    {
+      "id": 55,
+      "title": "The Last Great American Dynasty",
+      "time": "3:51"
+    },
+    {
+      "id": 56,
+      "title": "Exile (featuring Bon Iver)",
+      "time": "4:45"
+    },
+    {
+      "id": 57,
+      "title": "My Tears Ricochet",
+      "time": "4:15"
+    },
+    {
+      "id": 58,
+      "title": "Mirrorball",
+      "time": "3:29"
+    },
+    { "id": 59, "title": "Seven", "time": "3:28" },
+    {
+      "id": 60,
+      "title": "August",
+      "time": "4:21"
+    },
+    {
+      "id": 61,
+      "title": "This Is Me Trying",
+      "time": "3:15"
+    },
+    {
+      "id": 62,
+      "title": "Illicit Affairs",
+      "time": "3:10"
+    },
+    {
+      "id": 63,
+      "title": "Invisible String",
+      "time": "4:12"
+    },
+    {
+      "id": 64,
+      "title": "Mad Woman",
+      "time": "3:57"
+    },
+    {
+      "id": 65,
+      "title": "Epiphany",
+      "time": "4:49"
+    },
+    {
+      "id": 66,
+      "title": "Betty",
+      "time": "4:54"
+    },
+    { "id": 67, "title": "Peace", "time": "3:54" },
+    { "id": 68, "title": "Hoax", "time": "3:40" }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Red",
+      "releaseDate": "22/10/2012",
+      "genre": "Country",
+      "songIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    },
+    {
+      "id": 2,
+      "title": "1989",
+      "releaseDate": "27/10/2014",
+      "genre": "Pop",
+      "songIds": [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+    },
+    {
+      "id": 3,
+      "title": "Lemonade",
+      "releaseDate": "23/04/2016",
+      "genre": "Pop",
+      "songIds": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+    },
+    {
+      "id": 4,
+      "title": "Queen II",
+      "releaseDate": "08/03/1974",
+      "genre": "Rock",
+      "songIds": [42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]
+    },
+    {
+      "id": 5,
+      "title": "Folklore",
+      "releaseDate": "24/07/2020",
+      "genre": "Folk",
+      "songIds": [
+        53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Taylor Swift",
+      "albumIds": [1, 2, 5]
+    },
+    {
+      "id": 2,
+      "name": "Beyoncè",
+      "albumIds": [3]
+    },
+    {
+      "id": 3,
+      "name": "Queen",
+      "albumIds": [4]
+    }
+  ]
+}
